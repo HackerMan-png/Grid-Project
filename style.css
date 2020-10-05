@@ -9,6 +9,9 @@ nav {
   background-color: rgb(197, 161, 129);
 }
 
+a{
+  text-decoration: none;
+}
 .container {
   display: grid;
   grid-gap: 3px;
